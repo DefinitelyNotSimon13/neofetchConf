@@ -1,1 +1,1 @@
-Configuration files for neofetch, inpsired by [ADDMEPLS]
+https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles
